@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "httpa://github.com/ZexxaDevID/FirstExpressApp.git"
+    "url": "https://github.com/INsITdeveloper/Insdevapi.github.io"
   },
   "keywords": [
     "Express"
   ],
-  "author": "ZexxaDevID",
+  "author": "insdev",
   "license": "ISC",
   "dependencies": {
     "api-dylux": "^1.7.1",
